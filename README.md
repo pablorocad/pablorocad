@@ -19,6 +19,6 @@ const pablo_roca = {
         containers: ["Docker"]
         databases: ["MongoDB", "MySql", "PostgreSQL"]
     },
-  challenge: "I'm learning React"
+  learning:["React","Python"] 
 };
 ```
