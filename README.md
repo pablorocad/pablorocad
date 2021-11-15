@@ -6,19 +6,18 @@
 ```javascript
 const pablo_roca = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "C++", "C", "Java"],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "C++", "C", "Java", "Python"],
   technologies: {
         frontEnd: {
-            js: ["Angular", "Karma"],
-            css: ["Bootstrap"]
+            js: ["Angular", "Karma"]
         },
         backEnd: {
             js: ["node", "express"]
         },
         cloud: ["AWS", "GCP"],
-        containers: ["Docker"]
-        databases: ["MongoDB", "MySql", "PostgreSQL"]
+        containers: ["Docker", "Kubernetes"]
+        databases: ["MongoDB", "MySql", "PostgreSQL", "Oracle"]
     },
-  learning:["React","Python"] 
+  learning:["React"] 
 };
 ```
